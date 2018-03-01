@@ -1,0 +1,7 @@
+files:
+  - source: /core/resource/i18n/en-US.csv
+    translation: /core/resource/i18n/%language%.csv
+    languages_mapping:
+      language:
+        de: de-DE
+    scheme: 'source_phrase,translation'
